@@ -1,0 +1,15 @@
+black
+gdown
+imageio
+imageio-ffmpeg
+ipdb
+jupyter
+lpips
+matplotlib
+numpy
+opencv-python
+pillow
+plotly
+scipy
+tqdm
+trimesh
